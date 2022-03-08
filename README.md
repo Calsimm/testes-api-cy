@@ -54,8 +54,8 @@ npm run cy:report
 -Cypress: Framework de automação: https://cypress.io/
 
 
-### Bom exercício ;) 
-Fábio & José Ernesto
+### Exericio realizado por 
+Maria Carolina Lopes Braulino
 Qualidade de software
 
 
