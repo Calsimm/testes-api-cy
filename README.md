@@ -55,7 +55,7 @@ npm run cy:report
 
 
 ### Exericio realizado por 
-Maria Carolina Lopes Braulino
+Maria Carolina Lopes Braulino -
 Qualidade de software
 
 
