@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar o repositorio') {
             steps {
-               git branch: 'main', url: 'https://github.com/Calsimm/testes-api-cy.git 
+               git branch: 'main', url: 'https://github.com/Calsimm/testes-api-cy.git' 
             }
         }
         stage('Instalar dependencias') {
